@@ -36,3 +36,6 @@ let myFunc = function(){
 console.log(typeof arr)
 
 //For non-primitive data types return type is always an object, expect for functions it is object-function
+
+//Stack memory is used for primitive datatypes
+//Heap memory is used for non-primitive datatypes
