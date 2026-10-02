@@ -23,3 +23,5 @@ let boolisloggedin = Boolean(isloggedin);
 console.log(boolisloggedin);
 
 //String conversion can be done by: String(var)
+
+//Study Operators
